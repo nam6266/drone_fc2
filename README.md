@@ -5,6 +5,10 @@ A personal project: a small quadcopter built from scratch, with my own flight fi
 ![Drone front](img/drone_front.jpg)
 ![Drone back](img/drone_back.jpg)
 
+
+https://github.com/user-attachments/assets/704e980e-f666-42e4-bf41-4761753f6d29
+
+
 ## How it works
 | Part | Role |
 |---|---|
