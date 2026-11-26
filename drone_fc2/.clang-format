@@ -1,0 +1,24 @@
+# Formatting rules for the drone firmware. Arduino IDE 2: Tools -> Auto Format (Ctrl+T) uses this file.
+BasedOnStyle: LLVM
+Language: Cpp
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 110
+BreakBeforeBraces: Allman
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+AllowShortBlocksOnASingleLine: Never
+AllowShortFunctionsOnASingleLine: None
+AllowShortCaseLabelsOnASingleLine: false
+AllowShortLambdasOnASingleLine: None
+AllowShortEnumsOnASingleLine: false
+IndentCaseLabels: true
+NamespaceIndentation: None
+AccessModifierOffset: -4
+PointerAlignment: Left
+SortIncludes: Never
+FixNamespaceComments: true
+KeepEmptyLinesAtTheStartOfBlocks: false
+SpaceBeforeParens: ControlStatements
+Cpp11BracedListStyle: true
